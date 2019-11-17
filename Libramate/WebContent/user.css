@@ -1,0 +1,85 @@
+body {
+	background-color: #2299DD;
+	margin: 0;
+	width: 100%;
+	left: -50px;
+}
+
+.input a {
+	position: -webkit-sticky;
+	position: sticky;
+	color: white;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size: 40px;
+	-webkit-text-stroke: 2px #000000;
+	text-decoration: none;
+	position: relative;
+	top: 7px;
+}
+
+.input {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	background-color: #6FCF97;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	z-index: 9999999999;
+}
+
+form {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	display: inline;
+}
+
+table {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	display: inline-table;
+}
+
+tr, td {
+	font-family:"Arial Black", Gadget, sans-serif;
+	position: relative;
+	top: -12px;
+	left: 3px;
+}
+
+.rof button {
+	background-color: #165785;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+    color: white;
+	font-family:"Arial Black", Gadget, sans-serif;
+	-webkit-text-stroke: 1px #000000;
+}
+
+.rof button:hover {
+    background-color: #ddd;
+}
+
+.fof button {
+	background-color: #165785;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 10px;
+    transition: 0.3s;
+    font-size: 17px;
+    color: white;
+	font-family:"Arial Black", Gadget, sans-serif;
+	-webkit-text-stroke: 1px #000000;
+}
+
+.fof button:hover {
+    background-color: #ddd;
+}

@@ -1,0 +1,29 @@
+body {
+	background-color: #6FCF97;
+	margin: 0;
+	width: 100%;
+	left: -50px;
+}
+
+a {
+	color: white;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size: 80px;
+	-webkit-text-stroke: 3px #000000;
+	text-decoration: none;
+}
+
+.input {
+	background-color: #2299DD;
+	align: right;
+	margin-top: 105px;
+	padding-top: 80px;
+	padding-bottom: 70px;
+}
+
+tr, td {
+	font-family:"Arial Black", Gadget, sans-serif;
+	text-align: left;
+	left: -20px;
+	padding-right: 200px;
+}
